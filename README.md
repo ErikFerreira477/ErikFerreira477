@@ -1,6 +1,6 @@
 <h1 align = "center"> Welcome navigator :ocean:</h1>
 <h3 align = "center">Here you guys can check a litle about my personal profile and studies :books:</h3>
-<p> Hi my name is Érik Ferreira - Im 20 years old. Im at third period of CC(computer Science) with focus on systems development and im from Rio de Janeiro - Brazil. </p>
+<p> Hi my name is Érik Ferreira - Im 20 years old. Im at fourth period of CC(computer Science) with focus on systems development and im from Rio de Janeiro - Brazil. </p>
 
 <h4>My studies:</h4>
 
