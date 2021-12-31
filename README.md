@@ -1,11 +1,11 @@
 <h1 align = "center"> Welcome navigator :ocean:</h1>
 <h3 align = "center">Here you guys can check a little about my personal profile and studies :books:</h3>
-<p> Hi my name is Érik Ferreira - Im 20 years old. Im at fourth period of CC(computer Science) with focus on systems development and im from Rio de Janeiro - Brazil. </p>
+<p> Hi my name is Érik Ferreira - Im 21 years old. Im at fourth period of CC(computer Science) with focus on systems development and im from Rio de Janeiro - Brazil. </p>
 
 <h4>My studies:</h4>
 
 <ul>
-  <li>:scroll: Presently im studying JS for in the future learn react or vue</li>
+  <li>:scroll: Presently im studying React
   <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C and others</li>
 </ul>
 
