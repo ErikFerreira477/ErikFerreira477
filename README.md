@@ -6,7 +6,7 @@
 
 <ul>
   <li>:scroll: Presently im studying React
-  <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C and others</li>
+  <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C, scrum, back and front end!</li>
 </ul>
 
 <h3>Languages and stack</h3>
