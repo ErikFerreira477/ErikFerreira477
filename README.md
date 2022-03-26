@@ -5,9 +5,11 @@
 <h4>My studies:</h4>
 
 <ul>
-  <li>:scroll: Presently im studying React
+  <li>:scroll: Presently im studying/working with React + multiple content like frameworks css and JS libs to improve react
   <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C, scrum, back and front end!</li>
 </ul>
+
+<div style="text-align: center">
 
 <h3>Languages and stack</h3>
 
@@ -31,3 +33,5 @@
 <a href="mailto:erikcalcada@hotmail.com"><code><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></code></a>
 <a href="mailto:erikferreira4778@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code></a>
 <a href="https://www.linkedin.com/in/érik-ferreira-2705611a3/"><code><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code></a>
+  
+</div>
