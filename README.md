@@ -27,7 +27,15 @@
 <code><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 
-
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikFerreira477&theme=dracula&hide_langs_below=1" />
+</a>
+<br>
+ <br>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikFerreira477&show_icons=true&theme=dracula&line_height=27" alt="ErikFerreira477 github stats"/>
+</a>
+  
 <h3> Contact </h3>
 
 <a href="mailto:erikcalcada@hotmail.com"><code><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></code></a>
