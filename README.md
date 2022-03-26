@@ -9,7 +9,7 @@
   <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C, scrum, back and front end!</li>
 </ul>
 
-<div style="text-align: center">
+<div align = "center">
 
 <h3>Languages and stack</h3>
 
