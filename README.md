@@ -5,14 +5,16 @@
 <h4>My studies:</h4>
 
 <ul>
-  <li>:scroll: Presently im studying/working with React + multiple content like frameworks css and JS libs to improve react
-  <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C, scrum, back and front end!</li>
+  <li>:scroll: Now im studying/working with Flutter + its respective libs like mobx, dio and Modular with cleanArch</li>
+  <li>:scroll: I worked for 1 year with React + multiple content like frameworks css and JS libs to improve react components</li>
+  <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C, scrum, back, front end and mobile!</li>
 </ul>
 
 <div align = "center">
 
-<h3>Languages and stack</h3>
+<h3>Stack</h3>
 
+<code><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
