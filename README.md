@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Érik Ferreira
 
 🎯 **Desenvolvedor Front-end e Mobile** | 🌐 **Flutter** | 💻 **React** | 🛠️ **Clean Architecture**  
-📍 **Campinas, SP** | 🌎 Falante de **Inglês (profissional)** e **Espanhol (básico)**  
+📍 **Rio de Janeiro, RJ** | 🌎 Falante de **Inglês (profissional)** e **Espanhol (básico)**  
 
 ---
 
