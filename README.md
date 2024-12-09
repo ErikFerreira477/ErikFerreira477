@@ -1,48 +1,66 @@
-<h1 align = "center"> Welcome navigator :ocean:</h1>
-<h3 align = "center">Here you guys can check a little about my personal profile and studies (
-just to remember, the information above is summarized :books:</h3>
-<p> Hi my name is Érik Ferreira - Im 22 years old. Im in fifth period of CC(computer Science) with focus on systems development and im from Rio de Janeiro - Brazil. </p>
+# 👋 Olá! Eu sou Érik Ferreira
 
-<h4>My studies:</h4>
+🎯 **Desenvolvedor Front-end e Mobile** | 🌐 **Flutter** | 💻 **React** | 🛠️ **Clean Architecture**  
+📍 **Campinas, SP** | 🌎 Falante de **Inglês (profissional)** e **Espanhol (básico)**  
 
-<ul>
-  <li>:scroll: Now im studying/working with Flutter + its respective libs like mobx, dio and Modular with cleanArch</li>
-  <li>:scroll: I worked for 1 year with React + multiple content like frameworks css and JS libs to improve react components</li>
-  <li>:closed_book: At college ive seen multiple contents like: Java, DataBase modelation, C, scrum, back, front end and mobile!</li>
-</ul>
+---
 
-<div align = "center">
+## 📝 Sobre Mim  
+Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções escaláveis e eficientes para web e mobile. Com mais de **3 anos de experiência** no mercado, atualmente trabalho na **Levva** como desenvolvedor Front-end/Mobile. Tenho experiência com integração de APIs, desenvolvimento de layouts responsivos e uso de metodologias ágeis como Scrum e Kanban.
 
-<h3>Stack</h3>
+💡 Acredito no aprendizado contínuo e amo colaborar em projetos inovadores que impactam positivamente a vida das pessoas.  
 
-<code><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+---
 
-<h3>Tools and other tech knowledge</h3>
+## 🚀 Tecnologias e Ferramentas  
+- **Front-end & Mobile:** Flutter, Dart, React, TypeScript  
+- **Arquitetura:** Clean Architecture  
+- **Ferramentas:** Next.js, Scrum, Kanban  
+- **Testes:** Testes unitários  
 
-<code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+---
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikFerreira477&theme=dracula&hide_langs_below=1" />
-</a>
-<br>
- <br>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikFerreira477&show_icons=true&theme=dracula&line_height=27" alt="ErikFerreira477 github stats"/>
-</a>
-  
-<h3> Contact </h3>
+## 🎓 Formação Acadêmica  
+- **Estácio:** Bacharelado em Ciência da Computação (2022 - 2024)  
+- **UNISUAM:** Bacharelado em Ciência da Computação (2020 - 2022)  
+- **Senac RJ:** Técnico em Informática (2019)
 
-<a href="mailto:erikcalcada@hotmail.com"><code><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></code></a>
-<a href="mailto:erikferreira4778@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code></a>
-<a href="https://www.linkedin.com/in/érik-ferreira-2705611a3/"><code><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code></a>
-  
-</div>
+---
+
+## 🛠️ Experiência Profissional  
+### **Levva**  
+#### Desenvolvedor Front-end/Mobile PL (2024 - Presente)  
+- Desenvolvimento de componentes e widgets personalizados  
+- Integração com APIs e ferramentas externas  
+- Criação de layouts responsivos  
+- Implementação de testes unitários  
+
+#### Desenvolvedor Front-end/Mobile JR (2022 - 2024)  
+- Desenvolvimento de componentes reutilizáveis e integração de APIs  
+- Contribuições em projetos Scrum para entrega de soluções ágeis  
+
+#### Estagiário de Desenvolvimento de Software (2021 - 2022)  
+- Desenvolvimento de componentes funcionais com React  
+- Colaboração em equipes ágeis para entregar interfaces modernas  
+
+### **The British School - RJ**  
+#### Estagiário de Suporte (2021)  
+- Atendimento a usuários e manutenção de hardware  
+
+---
+
+## 📜 Certificações  
+- Dart & Flutter - Zero to Mastery + Clean Architecture  
+- Concepção de Algoritmos Eficientes  
+- Curso de React.Js e Next.Js (Intermediário e Avançado)  
+
+---
+
+## 🌐 Contatos  
+- 💼 [LinkedIn](https://www.linkedin.com/in/érikferreira-2705611a3)  
+- 📂 [Portfolio](https://erikferreira477.github.io/)  
+- 🖥️ [GitHub](https://github.com/ErikFerreira477)  
+
+---
+
+✨ _"Sempre em busca de novos desafios e oportunidades para crescer e contribuir."_  
