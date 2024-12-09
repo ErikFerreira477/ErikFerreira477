@@ -14,9 +14,9 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções esc
 
 ## 🚀 Tecnologias e Ferramentas  
 - **Front-end & Mobile:** Flutter, Dart, React, TypeScript  
-- **Arquitetura:** Clean Architecture  
+- **Arquitetura:** Clean Architecture e MVVM
 - **Ferramentas:** Next.js, Scrum, Kanban  
-- **Testes:** Testes unitários  
+- **Testes:** Flutter test e React Testing library 
 
 ---
 
@@ -58,8 +58,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções esc
 
 ## 🌐 Contatos  
 - 💼 [LinkedIn](https://www.linkedin.com/in/érikferreira-2705611a3)  
-- 📂 [Portfolio](https://erikferreira477.github.io/)  
-- 🖥️ [GitHub](https://github.com/ErikFerreira477)  
 
 ---
 
