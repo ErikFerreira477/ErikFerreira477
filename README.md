@@ -36,7 +36,7 @@ Sou apaixonado por aprender e estou sempre buscando novos desafios para expandir
 
 ## 🛠️ Experiência Profissional  
 ### **Levva**  
-#### Desenvolvedor Front-end/Mobile (2021 - Presente)  
+#### Desenvolvedor Front-end/Mobile (2020 - Presente)  
 - Gerenciamento de Estado: MobX, Provider
 - Injeção de Dependência: Modular
 - Integração de API: HTTP, Dio
@@ -54,7 +54,7 @@ Sou apaixonado por aprender e estou sempre buscando novos desafios para expandir
 - Processos Scrum: Standups Diários, Planejamento de Sprint, Revisão de Sprint, Retrospectiva de Sprint
 
 ### **The British School - RJ**  
-#### Estagiário de Suporte (2021)  
+#### Estagiário de Suporte (2020)  
 - Atendimento a usuários e manutenção de hardware  
 
 ---
